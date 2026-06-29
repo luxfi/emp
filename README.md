@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="emp" width="880"></p>
+
 # Stub Package for Launching a New EMP
 
 The purpose of this repository/package is to make it easy to customize your EMP deployment. Feel free to use this
